@@ -1,6 +1,6 @@
 # Practicing HTML
 
-Creating html file the will show some recipes
+Creating html file that will show some recipes
 
 In this project i will use these tags in html:
 
